@@ -1,2 +1,2 @@
 # IIIT B Upgrad
- Assignements
+ Assignments
